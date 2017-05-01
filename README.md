@@ -1,7 +1,7 @@
 # BASH_Programming-course
 This repository has the files I produced while going through the course BASH Programming by Ermin Kreponic (https://goo.gl/Wj9Sg2)
 
-#### IMPORTANT FOR macOS USERS!
+### IMPORTANT FOR macOS USERS!
 
 Some commands taught through the course were meant for bash version 4. However, macOS has the version 3.2.57(1). So, you should install
 the newest version of bash.
