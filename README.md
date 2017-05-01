@@ -11,5 +11,5 @@ brew install bash
 in your scripts, you can then put at the top of your scripts:
 #!/usr/local/bin/bash
 NOTE: Homebrew (or just brew) is free and can be educational.
->><<
+
 Special thanks to Kevin Wright (https://www.udemy.com/user/kevinwright2/) for the above tutorial about bash and brew on OSX 
