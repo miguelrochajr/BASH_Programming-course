@@ -21,4 +21,4 @@
 var=DSLCoNneTioN
 
 echo $var
-echo ${var,}
+echo ${var,,} #to change only the fist character indo lower case, use one comma. To change all, use double commas (,,)
