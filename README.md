@@ -3,7 +3,9 @@ This repository has the files I produced while going through the course BASH Pro
 
 >>>>> IMPORTANT FOR macOS USERS!
 
-if you want an easy way to get a newer version of bash, use brew. find it by searching homebrew mac. (or go to http://brew.sh)
+Some commands taught through the course were meant for bash version 4. However, macOS has the version 3.2.57(1). So, you should install
+the newest version of bash.
+If you want an easy way to get a newer version of it, use brew. find it by searching homebrew mac. (or go to http://brew.sh)
 
 then just run:
 
@@ -16,4 +18,4 @@ in your scripts, you can then put at the top of your scripts:
 NOTE: Homebrew (or just brew) is free and can be educational.
 
 
-Special thanks to Kevin Wright (https://www.udemy.com/user/kevinwright2/) for the above tutorial about bash and brew on OSX 
+Special thanks to Kevin Wright (https://www.udemy.com/user/kevinwright2/) for the above tutorial about bash and bre on OSX
