@@ -1,0 +1,20 @@
+#This file should receive the values from the script
+
+this is file 1
+this is file 2
+this is file 1
+this is file 2
+this is file 1
+this is file 2
+this is file 1
+this is file 2
+this is file 1
+this is file 2
+this is file 1
+this is file 2
+this is file 1
+this is file 2
+this is file 1
+this is file 2
+this is file 1
+this is file 2
