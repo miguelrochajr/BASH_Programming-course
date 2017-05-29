@@ -23,3 +23,16 @@ function1 ()
 {
   : # Colon is the NULL character
 }
+
+
+# --- ARGUMENT PASSING ----
+
+myfunc()
+{
+  echo "First arg is $1, sedon arg is $2"
+}
+
+var1=10
+var2=20
+
+myfunc va1 var2
